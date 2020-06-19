@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Manoj Krishna K
     tagline: Java Developer/Technical Lead
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: manokrrish@gmail.com
