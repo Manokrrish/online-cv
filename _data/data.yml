@@ -14,10 +14,10 @@ sidebar:
     # Sidebar links
     email: manokrrish@gmail.com
     phone: +91 9789062500
-    website: manokrrish.github.io #do not add http://
+    website: manokrrish.github.io/bio #do not add http://
     linkedin: manoj-krishna-k
     github: manokrrish
-    telegram: # add your nickname without '@' sign
+ #   telegram: # add your nickname without '@' sign
 #    gitlab:
 #    bitbucket:
 #    twitter: '@webjeda'
@@ -72,90 +72,50 @@ experiences:
       time: 2013 - 2014
       company: IBS Software Services, Trivandrum
       details: |
-        Device Drivers - V3, Teltonika FM5300 device driver, is a driver which facilitates TCP/UDP data packets enabling vehicle tracking, Geofencing and Overspeed detections. I was using Java, Spring 3, ActiveMQ, Netty TCP/UDP Servers, etc. during this project.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        Device Drivers - V3, Teltonika FM5300 device driver, is a driver which facilitates TCP/UDP data packets enabling vehicle tracking, Geofencing and Overspeed detections. I was using Java, Spring 3, ActiveMQ, Netty TCP/UDP Servers, Apache Cassandra, Storm and Kafka. during this project.
+          - Have received appreciation from clients for successfully implementing real time computation.
+          
+    - role: Software Developer
+      time: 2009 - 2012
+      company: Thomson Reuters, Nagercoil
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        MyMediaInfo, is a media database application provisioning PR industry. I was using Java, JSP, Servlets and Mysql.
+        Media Monitoring, provides a near real time search results of articles published by Media professionals. It uses JSP, Servlets and Elasticsearch
+          - Have recieved best performer of the year 2010 and 2011.
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Document Conversion Service at Nasdaq
+        #link: "#hook"
+        tagline: "This is a shared document conversion service across PR applications of Nasdaq(now West Corp). This service converts any MS Office document into html document based on different specifications of SEC".
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Web Robot at Thomson Reuters
+        #link: "#"
+        tagline: "This project collects valid news articles from different news websites and attaches them to respective media profiles. Later this project was extended as Media Monitoring product".
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Java, Jsp & Servlets
+        level: 90%
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
+      - name: Spring framework & Microservices
+        level: 90%
+        
+      - name: JBoss & Hibernate
         level: 85%
+        
+      - name: Cassandra, Elasticsearch, Solr & Kafka
+        level: 75%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Azure cloud services & On-prem
+        level: 75%
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+      - name: AngularJs & Javascript
+        level: 75%
+
+#footer: >
+ #   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
