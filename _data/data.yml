@@ -85,37 +85,37 @@ experiences:
 projects:
     title: Projects
     intro: >
-      
+      You can 
     assignments:
       - title: "Document Conversion Service at Nasdaq."
-        #link: "#hook"
+        link: "#"
         tagline: "This is a shared document conversion service across PR applications of Nasdaq(now West Corp). This service converts any MS Office document into html document based on different specifications of SEC."
 
       - title: "Web Robot at Thomson Reuters"
-        #link: "#"
+        link: "#"
         tagline: "This project collects valid news articles from different news websites and attaches them to respective media profiles. Later this project was extended as Media Monitoring product."
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: "Java, Jsp & Servlets"
+      - name: Java, Jsp & Servlets
         level: 90%
 
-      - name: "Spring framework & Microservices"
+      - name: Spring framework & Microservices
         level: 90%
         
-      - name: "JBoss & Hibernate"
+      - name: JBoss & Hibernate
         level: 85%
         
-      - name: "Cassandra, Elasticsearch, Solr & Kafka"
+      - name: Cassandra, Elasticsearch, Solr & Kafka
         level: 75%
 
-      - name: "Azure cloud services & On-prem"
+      - name: Azure cloud services & On-prem
         level: 75%
 
-      - name: "AngularJs & Javascript"
+      - name: AngularJs & Javascript
         level: 75%
 
-#footer: >
- #   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
