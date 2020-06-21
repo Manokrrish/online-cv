@@ -46,20 +46,13 @@ career-profile:
     title: Career Profile
     summary: |
       Technical Lead with 10 years of development experience in Java eco-system.
-      Working as a <i>Software Developer Senior Specialist</i> at <b>Nasdaq</b>.
+      Working as a <b><i>Software Developer Senior Specialist</i></b> at <b>Nasdaq</b>.
       
 education:
     - degree: Bachelor of Computer Science and Engineering
       university: Anna University
       time: 2005 - 2009
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+      
 experiences:
     - role: Software Developer Senior Specialist
       time: 2015 - Present
