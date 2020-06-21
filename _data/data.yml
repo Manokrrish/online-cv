@@ -99,23 +99,29 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Java, Jsp & Servlets
+      - name: Java, J2EE, Jsp & Servlets
         level: 90%
+        
+      - name: Microservices
+        level: 80%
 
-      - name: Spring framework & Microservices
+      - name: Spring & Hibernate
         level: 90%
         
-      - name: JBoss & Hibernate
-        level: 85%
+      - name: Hibernate
+        level: 80%
         
-      - name: Cassandra, Elasticsearch, Solr & Kafka
+      - name: Jboss EAP
+        level: 80%
+        
+      - name: Cassandra, Solr & Kafka
         level: 75%
+        
+      - name: Elasticsearch
+        level: 70%
 
       - name: Azure cloud services & On-prem
-        level: 75%
+        level: 70%
 
-      - name: AngularJs & Javascript
-        level: 75%
-
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+      - name: AngularJs & Js
+        level: 65%
